@@ -83,6 +83,6 @@
 # 小程序端
 - [短视频去水印小程序源码-小程序端](https://github.com/zhangwenkang0/remove-water-mark-mp)
 
-# 该源码完善及修改自:github源码地址
+# 该源码完善及修改自
 - [短视频去水印小程序源码-服务端（php）](https://github.com/wyq2214368/remove-water-mark-server)
 
